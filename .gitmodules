@@ -1,0 +1,9 @@
+[submodule "lib/forge-std"]
+	path = lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "lib/solvm"]
+	path = lib/solvm
+	url = https://github.com/brockelmore/solvm
+[submodule "lib/memmove"]
+	path = lib/memmove
+	url = https://github.com/brockelmore/memmove
